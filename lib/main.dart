@@ -53,7 +53,7 @@ class CalcAppState extends State<CalcApp> {
       debugShowCheckedModeBanner: false,
       title: 'Calculator',
       home: Scaffold(
-       backgroundColor: Colors.black,
+       backgroundColor: Colors.blue,
         body:Column(
           mainAxisAlignment: MainAxisAlignment.end,
           children:<Widget>[
